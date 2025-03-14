@@ -9,7 +9,6 @@ Un pequeño proyecto web que permite gestionar una lista de amigos y realizar un
 4. [Tecnologías Utilizadas](#tecnologías-utilizadas)  
 5. [Cómo Funciona](#cómo-funciona)  
 6. [Posibles Problemas y Soluciones](#posibles-problemas-y-soluciones)  
-7. [Licencia](#licencia)  
 
 ## Características  
 - Agregar nombres a una lista de participantes.  
@@ -33,7 +32,7 @@ Un pequeño proyecto web que permite gestionar una lista de amigos y realizar un
 ## Tecnologías Utilizadas
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
   
 ## Cómo Funciona
 - Ingresa nombres en el campo de texto y presiona "Añadir".
